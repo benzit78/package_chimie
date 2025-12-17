@@ -7,3 +7,6 @@ chempkg.egg-info/
 
 # Fichier compilé
 .pytest_cache/
+__pycache__/
+
+.DS_Store
