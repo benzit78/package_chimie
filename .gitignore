@@ -1,0 +1,9 @@
+# Environnement virtuel
+venv/
+
+# Dossier
+part1_carbone/
+chempkg.egg-info/
+
+# Fichier compilé
+.pytest_cache/
