@@ -6,17 +6,17 @@ et de fournir des outils utilitaires pour manipuler des réactions simples.
 
 Le dossier est organisé de la manière suivante :
 package_chimie/
-├── chempkg/
-│ ├── atom.py
-│ ├── mol.py
-│ ├── reaction_utils.py
-│ └── __init__.py
-└── tests
-    ├── test_atom.py
-    ├── test_molecule.py
-    └── test_reactions_utils.py
-└── README.md
-└── pyproject.toml
+    ├── chempkg/
+    │ ├── atom.py
+    │ ├── mol.py
+    │ ├── reaction_utils.py
+    │ └── __init__.py
+    └── tests
+        ├── test_atom.py
+        ├── test_molecule.py
+        └── test_reactions_utils.py
+    └── README.md
+    └── pyproject.toml
 ---
 
 ##  Contenu du package
